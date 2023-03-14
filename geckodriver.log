@@ -83,3 +83,299 @@ WebDriver BiDi listening on ws://127.0.0.1:53546
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shred\\AppData\\Local\\Temp\\rust_mozprofileuDNWHf\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:53546/devtools/browser/f7eed157-8c9e-440f-be38-33c18785eda6
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://cdcs.ur.rochester.edu."
+1678807015140	geckodriver	INFO	Listening on 127.0.0.1:2475
+1678807018462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2476" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofileGuDVNJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678807019668	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678807019677	Marionette	INFO	Listening on port 2486
+Read port: 2486
+WebDriver BiDi listening on ws://127.0.0.1:2476
+1678807019860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofileGuDVNJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2476/devtools/browser/cda82b56-08ea-4b74-b8a0-b19d260580c3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://cdcs.ur.rochester.edu."
+1678807459766	geckodriver	INFO	Listening on 127.0.0.1:1205
+1678807462796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1206" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofilevZ3qzS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678807463359	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678807463371	Marionette	INFO	Listening on port 1215
+Read port: 1215
+WebDriver BiDi listening on ws://127.0.0.1:1206
+1678807463562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofilevZ3qzS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1206/devtools/browser/d9d0e41a-8de3-4155-bcfd-4f9b8ee8a845
+1678807488431	geckodriver	INFO	Listening on 127.0.0.1:1386
+1678807491461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1387" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofileynHOrw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678807491921	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678807491927	Marionette	INFO	Listening on port 1402
+Read port: 1402
+WebDriver BiDi listening on ws://127.0.0.1:1387
+1678807492116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofileynHOrw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1387/devtools/browser/b5940963-43e0-4fdc-8fba-fdc9d982929e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://cdcs.ur.rochester.edu."
+1678807721447	geckodriver	INFO	Listening on 127.0.0.1:1571
+1678807724533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1572" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofile609wzJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678807724946	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678807724951	Marionette	INFO	Listening on port 1605
+Read port: 1605
+WebDriver BiDi listening on ws://127.0.0.1:1572
+1678807725093	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofile609wzJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1572/devtools/browser/2f394611-c5c5-4e99-b9dc-826d220490cc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://cdcs.ur.rochester.edu."
+1678815369847	geckodriver	INFO	Listening on 127.0.0.1:7388
+1678815372894	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7389" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofilesHFTND"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678815374090	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678815374097	Marionette	INFO	Listening on port 7400
+Read port: 7400
+WebDriver BiDi listening on ws://127.0.0.1:7389
+1678815374274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofilesHFTND\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:7389/devtools/browser/cbfb80ae-401d-4e54-b08a-0af72f48b018
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://cdcs.ur.rochester.edu."
+1678815398056	Marionette	INFO	Stopped listening on port 7400
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1678815409226	geckodriver	INFO	Listening on 127.0.0.1:7474
+1678815412247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7475" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofile3DmH5j"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678815412732	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678815412739	Marionette	INFO	Listening on port 7486
+Read port: 7486
+WebDriver BiDi listening on ws://127.0.0.1:7475
+1678815412902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofile3DmH5j\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:7475/devtools/browser/bb7ec126-3cc9-4837-a802-26568c0b752c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://cdcs.ur.rochester.edu."
+1678815792335	geckodriver	INFO	Listening on 127.0.0.1:7780
+1678815795377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7781" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofileQQRocf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678815795877	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678815795886	Marionette	INFO	Listening on port 7793
+Read port: 7793
+WebDriver BiDi listening on ws://127.0.0.1:7781
+1678815796064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofileQQRocf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:7781/devtools/browser/66d1d8be-e029-4d84-847a-13c406a99814
+1678815833058	geckodriver	INFO	Listening on 127.0.0.1:7876
+1678815836080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7877" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofilehF5LQg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678815836604	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678815836612	Marionette	INFO	Listening on port 7889
+Read port: 7889
+WebDriver BiDi listening on ws://127.0.0.1:7877
+1678815836769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1678815847672	geckodriver	INFO	Listening on 127.0.0.1:7911
+1678815850731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7912" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofile3pyy67"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678815851192	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678815851200	Marionette	INFO	Listening on port 7925
+Read port: 7925
+WebDriver BiDi listening on ws://127.0.0.1:7912
+1678815851357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofile3pyy67\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:7912/devtools/browser/1386750a-4c2e-4080-8509-5b7fc329e542
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://cdcs.ur.rochester.edu."
+1678816160530	geckodriver	INFO	Listening on 127.0.0.1:8157
+1678816163604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "8158" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofilelTguID"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678816164088	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678816164096	Marionette	INFO	Listening on port 8169
+Read port: 8169
+WebDriver BiDi listening on ws://127.0.0.1:8158
+1678816164258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofilelTguID\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:8158/devtools/browser/b720e3cf-0296-4608-8a1a-79d950b1b624
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://cdcs.ur.rochester.edu."
+1678816285477	geckodriver	INFO	Listening on 127.0.0.1:8306
+1678816288516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "8307" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofilejsbm0W"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678816289044	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678816289052	Marionette	INFO	Listening on port 8318
+Read port: 8318
+WebDriver BiDi listening on ws://127.0.0.1:8307
+1678816289231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofilejsbm0W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:8307/devtools/browser/2577f7c1-fbb6-4282-abfa-fddd865dc507
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://cdcs.ur.rochester.edu."
+1678816486578	geckodriver	INFO	Listening on 127.0.0.1:8485
+1678816489627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "8486" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofileP7VDTO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678816490111	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678816490119	Marionette	INFO	Listening on port 8498
+Read port: 8498
+WebDriver BiDi listening on ws://127.0.0.1:8486
+1678816490288	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofileP7VDTO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:8486/devtools/browser/1a752e79-2275-4e82-a1ba-c37b1969e17d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://cdcs.ur.rochester.edu."
+1678816569933	geckodriver	INFO	Listening on 127.0.0.1:8599
+1678816572960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "8600" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofileFmkroU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678816573495	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678816573501	Marionette	INFO	Listening on port 8611
+Read port: 8611
+WebDriver BiDi listening on ws://127.0.0.1:8600
+1678816573661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofileFmkroU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:8600/devtools/browser/340f8d6d-956e-4b78-9c85-8399c7979e18
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://cdcs.ur.rochester.edu."
+1678816701907	geckodriver	INFO	Listening on 127.0.0.1:8734
+1678816704954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "8735" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofileU20NWN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678816705481	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678816705489	Marionette	INFO	Listening on port 8746
+Read port: 8746
+WebDriver BiDi listening on ws://127.0.0.1:8735
+1678816705669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofileU20NWN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:8735/devtools/browser/f1d13256-e6e8-453c-b1e3-1c188107a351
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://cdcs.ur.rochester.edu."
+1678816890858	geckodriver	INFO	Listening on 127.0.0.1:8913
+1678816893903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "8914" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofileDb8WVv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678816894404	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678816894412	Marionette	INFO	Listening on port 8925
+Read port: 8925
+WebDriver BiDi listening on ws://127.0.0.1:8914
+1678816894570	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofileDb8WVv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:8914/devtools/browser/bad2d8d9-8549-43f3-97ce-aa8ef8d85f47
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://cdcs.ur.rochester.edu."
+1678817032565	geckodriver	INFO	Listening on 127.0.0.1:9047
+1678817035601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9048" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofilesY66Y4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678817036118	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678817036125	Marionette	INFO	Listening on port 9058
+Read port: 9058
+WebDriver BiDi listening on ws://127.0.0.1:9048
+1678817036326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofilesY66Y4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:9048/devtools/browser/b768f8a0-d500-4d79-90c8-37f71645a2f5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://cdcs.ur.rochester.edu."
+1678818695961	geckodriver	INFO	Listening on 127.0.0.1:1845
+1678818699019	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1846" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofileiONUP8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678818699434	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678818699440	Marionette	INFO	Listening on port 1855
+Read port: 1855
+WebDriver BiDi listening on ws://127.0.0.1:1846
+1678818699585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofileiONUP8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1846/devtools/browser/f1f6cd9c-1ecf-4837-b1c3-969b100078f3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://cdcs.ur.rochester.edu."
+1678818798673	geckodriver	INFO	Listening on 127.0.0.1:1989
+1678818801713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1990" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofileuxNdio"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678818802285	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678818802293	Marionette	INFO	Listening on port 2005
+Read port: 2005
+WebDriver BiDi listening on ws://127.0.0.1:1990
+1678818802484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofileuxNdio\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1990/devtools/browser/778182cc-d462-4b85-899b-171c12e69726
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://cdcs.ur.rochester.edu."
+1678818899645	geckodriver	INFO	Listening on 127.0.0.1:2137
+1678818902698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2138" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofileyjYNMG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678818903200	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678818903209	Marionette	INFO	Listening on port 2151
+Read port: 2151
+WebDriver BiDi listening on ws://127.0.0.1:2138
+1678818903423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofileyjYNMG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2138/devtools/browser/1e00a89a-e17d-454d-be3a-6afe9992f4fb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://cdcs.ur.rochester.edu."
+1678819099226	geckodriver	INFO	Listening on 127.0.0.1:2353
+1678819102273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2354" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofileqXTkOi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678819102808	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678819102820	Marionette	INFO	Listening on port 2365
+Read port: 2365
+WebDriver BiDi listening on ws://127.0.0.1:2354
+1678819102992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofileqXTkOi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2354/devtools/browser/6badd621-c318-480e-87ea-ef19a08b2208
+1678819142903	geckodriver	INFO	Listening on 127.0.0.1:2459
+1678819145944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2460" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofileCy7rcR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678819146450	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678819146458	Marionette	INFO	Listening on port 2472
+Read port: 2472
+WebDriver BiDi listening on ws://127.0.0.1:2460
+1678819146649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofileCy7rcR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2460/devtools/browser/b33fd18c-3197-4433-93c9-3d8fce4f6652
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://cdcs.ur.rochester.edu."
+1678819220786	geckodriver	INFO	Listening on 127.0.0.1:2573
+1678819223850	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2574" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofileJPTY1X"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678819224321	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678819224330	Marionette	INFO	Listening on port 2584
+Read port: 2584
+WebDriver BiDi listening on ws://127.0.0.1:2574
+1678819224498	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofileJPTY1X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2574/devtools/browser/3c4e01ce-610b-4025-b6e1-9723f1bed199
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://cdcs.ur.rochester.edu."
+1678819353204	geckodriver	INFO	Listening on 127.0.0.1:2730
+1678819356232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2731" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofileNoitnk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678819356794	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678819356802	Marionette	INFO	Listening on port 2744
+Read port: 2744
+WebDriver BiDi listening on ws://127.0.0.1:2731
+1678819357027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Skeletor\\AppData\\Local\\Temp\\rust_mozprofileNoitnk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2731/devtools/browser/5e5b9c19-ead6-4925-ad2c-2e1d179417f2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://cdcs.ur.rochester.edu."

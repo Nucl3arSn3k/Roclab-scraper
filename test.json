@@ -1,0 +1,1087 @@
+{
+    "rate_limit": 1,
+    "expires_in": 300,
+    "api_latest_version": "1.2",
+    "generated_on": "2022-08-18T17:30:20+00:00",
+    "data": [
+        {
+            "code": "121",
+            "description": "240 Crittenden Blvd.",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.1213987962776,
+                "lng": -77.626063046627
+            },
+            "stop_id": "4112150",
+            "routes": [
+                "4010578"
+            ],
+            "name": "Helen Wood Hall"
+        },
+        {
+            "code": "101",
+            "description": "",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.109801,
+                "lng": -77.672743
+            },
+            "stop_id": "4130786",
+            "routes": [
+                "4015608",
+                "4015618"
+            ],
+            "name": "Scottsville Shelter B"
+        },
+        {
+            "code": "120",
+            "description": "Intercampus Dr. (Goergen Hall)",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.1250490059442,
+                "lng": -77.6290362797623
+            },
+            "stop_id": "4130838",
+            "routes": [
+                "4010578",
+                "4014822"
+            ],
+            "name": "Wilmot (Southbound)"
+        },
+        {
+            "code": "126",
+            "description": "South Ave. @ Alexander St.",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.1462128041891,
+                "lng": -77.6054292073402
+            },
+            "stop_id": "4130858",
+            "routes": [
+                "4010578"
+            ],
+            "name": "South & Alexander I/B"
+        },
+        {
+            "code": "127",
+            "description": "Monroe Ave. @ Alexander St.",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.1485917616215,
+                "lng": -77.597901468752
+            },
+            "stop_id": "4130862",
+            "routes": [
+                "4010578"
+            ],
+            "name": "Monroe & Alexander O/B"
+        },
+        {
+            "code": "105",
+            "description": "Crittenden Blvd.",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.121874,
+                "lng": -77.626116
+            },
+            "stop_id": "4136322",
+            "routes": [
+                "4004562",
+                "4010578"
+            ],
+            "name": "Whipple Circle"
+        },
+        {
+            "code": "107",
+            "description": "",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.104704,
+                "lng": -77.621737
+            },
+            "stop_id": "4136330",
+            "routes": [
+                "4004558"
+            ],
+            "name": "Crittenden Rd.- Rustic Village IB"
+        },
+        {
+            "code": "108",
+            "description": "30 Corporate Woods",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.107471,
+                "lng": -77.619386
+            },
+            "stop_id": "4136334",
+            "routes": [
+                "4004558"
+            ],
+            "name": "Corporate Woods Building 30"
+        },
+        {
+            "code": "109",
+            "description": "120 Corporate Woods",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.109179,
+                "lng": -77.621115
+            },
+            "stop_id": "4136338",
+            "routes": [
+                "4004558"
+            ],
+            "name": "Corporate Woods Building 120"
+        },
+        {
+            "code": "110",
+            "description": "",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.108589,
+                "lng": -77.621941
+            },
+            "stop_id": "4136342",
+            "routes": [
+                "4004558"
+            ],
+            "name": "Corporate Woods Overflow Lot"
+        },
+        {
+            "code": "111",
+            "description": "155 Corporate Woods",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.107061,
+                "lng": -77.622115
+            },
+            "stop_id": "4136346",
+            "routes": [
+                "4004558"
+            ],
+            "name": "Corporate Woods Building 155"
+        },
+        {
+            "code": "113",
+            "description": "266 Crittenden Blvd.",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.121437,
+                "lng": -77.628244
+            },
+            "stop_id": "4136354",
+            "routes": [
+                "4004562"
+            ],
+            "name": "MHW Lot at Bus Stop"
+        },
+        {
+            "code": "114",
+            "description": "320 Kendrick Rd.",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.121272,
+                "lng": -77.629944
+            },
+            "stop_id": "4136358",
+            "routes": [
+                "4004562"
+            ],
+            "name": "Lot 1"
+        },
+        {
+            "code": "115",
+            "description": "295 Kendrick Rd.",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.119742,
+                "lng": -77.629451
+            },
+            "stop_id": "4136362",
+            "routes": [
+                "4004562"
+            ],
+            "name": "Lot 11"
+        },
+        {
+            "code": "124",
+            "description": "Murlin Dr.",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.1085831178609,
+                "lng": -77.6362527890244
+            },
+            "stop_id": "4140922",
+            "routes": [
+                "4010578",
+                "4015958"
+            ],
+            "name": "Whipple Park"
+        },
+        {
+            "code": "132",
+            "description": "415 Elmwood Ave.",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.123348,
+                "lng": -77.627488
+            },
+            "stop_id": "4160586",
+            "routes": [
+                "4010578",
+                "4015608",
+                "4015618"
+            ],
+            "name": "School of Medicine (MRB)"
+        },
+        {
+            "code": "180",
+            "description": "",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.121599,
+                "lng": -77.626247
+            },
+            "stop_id": "4172362",
+            "routes": [
+                "4015606",
+                "4015608",
+                "4015618"
+            ],
+            "name": "Crittenden Blvd at Whipple Circle"
+        },
+        {
+            "code": "100",
+            "description": "",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.110547,
+                "lng": -77.671584
+            },
+            "stop_id": "4178614",
+            "routes": [
+                "4015608",
+                "4015618"
+            ],
+            "name": "Scottsville Shelter A"
+        },
+        {
+            "code": "106",
+            "description": "150 Norfolk St.",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.11787,
+                "lng": -77.622429
+            },
+            "stop_id": "4178616",
+            "routes": [
+                "4004558"
+            ],
+            "name": "Lattimore Office Building"
+        },
+        {
+            "code": "117",
+            "description": "284 Kendrick Rd.",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.119608,
+                "lng": -77.627082
+            },
+            "stop_id": "4178618",
+            "routes": [
+                "4004562"
+            ],
+            "name": "Lot 2/3"
+        },
+        {
+            "code": "122",
+            "description": "200 Kendrick Rd.",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.1176109254698,
+                "lng": -77.6304517619019
+            },
+            "stop_id": "4178622",
+            "routes": [
+                "4010578"
+            ],
+            "name": "Southside/University Park"
+        },
+        {
+            "code": "123",
+            "description": "250 East River Rd.",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.11335,
+                "lng": -77.634008
+            },
+            "stop_id": "4178624",
+            "routes": [
+                "4010578"
+            ],
+            "name": "Laser Lab"
+        },
+        {
+            "code": "130",
+            "description": "Mt. Hope Ave. @ McLean St.",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.1365607533087,
+                "lng": -77.6145084920654
+            },
+            "stop_id": "4178630",
+            "routes": [
+                "4010578"
+            ],
+            "name": "Mt. Hope & McLean"
+        },
+        {
+            "code": "165",
+            "description": "650 Hylan Dr.",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.0832448885442,
+                "lng": -77.6298505067513
+            },
+            "stop_id": "4178684",
+            "routes": [
+                "4015958"
+            ],
+            "name": "Wegmans"
+        },
+        {
+            "code": "166",
+            "description": "2325 Marketplace Dr.",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.0780611984,
+                "lng": -77.6318460703
+            },
+            "stop_id": "4178686",
+            "routes": [
+                "4015958"
+            ],
+            "name": "Target"
+        },
+        {
+            "code": "167",
+            "description": "1200 Marketplace Dr.",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.0800634164,
+                "lng": -77.6245075464
+            },
+            "stop_id": "4178688",
+            "routes": [
+                "4015958"
+            ],
+            "name": "Wal-Mart - Henrietta"
+        },
+        {
+            "code": "182",
+            "description": "",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.13565,
+                "lng": -77.606525
+            },
+            "stop_id": "4186434",
+            "routes": [
+                "4007476"
+            ],
+            "name": "Highland Hospital Main Loop"
+        },
+        {
+            "code": "184",
+            "description": "",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.121871,
+                "lng": -77.62373
+            },
+            "stop_id": "4196010",
+            "routes": [
+                "4004562"
+            ],
+            "name": "GCH Lower Inbound"
+        },
+        {
+            "code": "187",
+            "description": "",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.1221408728937,
+                "lng": -77.620403364418
+            },
+            "stop_id": "4219778",
+            "routes": [
+                "4010578",
+                "4015958"
+            ],
+            "name": "Goler Out Bound"
+        },
+        {
+            "code": "102",
+            "description": "",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.1177332365656,
+                "lng": -77.6304813880596
+            },
+            "stop_id": "4250440",
+            "routes": [
+                "4010578",
+                "4015958"
+            ],
+            "name": "Southside UPK OB"
+        },
+        {
+            "code": "103",
+            "description": "",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.122414420895,
+                "lng": -77.6203281365347
+            },
+            "stop_id": "4250442",
+            "routes": [
+                "4010578"
+            ],
+            "name": "Goler Inbound"
+        },
+        {
+            "code": "301",
+            "description": "260 Kendrick Rd.",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.118285,
+                "lng": -77.627919
+            },
+            "stop_id": "4250448",
+            "routes": [
+                "4004562",
+                "4015606"
+            ],
+            "name": "Lot 9"
+        },
+        {
+            "code": "307",
+            "description": "",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.1178320877094,
+                "lng": -77.6223178996426
+            },
+            "stop_id": "4250452",
+            "routes": [
+                "4004558"
+            ],
+            "name": "Lattimore Inbound"
+        },
+        {
+            "code": "318",
+            "description": "RMH IB",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.1160955542884,
+                "lng": -77.6301938530775
+            },
+            "stop_id": "4250456",
+            "routes": [
+                "4004558"
+            ],
+            "name": "Ronald McDonald House IB"
+        },
+        {
+            "code": "133",
+            "description": "Tower Rd. @ Intercampus Dr.",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.1315578684,
+                "lng": -77.6243948936
+            },
+            "stop_id": "4258750",
+            "routes": [
+                "4014822"
+            ],
+            "name": "Towers"
+        },
+        {
+            "code": "138",
+            "description": "512 Intercampus Dr.",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.1203524663,
+                "lng": -77.6321732998
+            },
+            "stop_id": "4258760",
+            "routes": [
+                "4014822"
+            ],
+            "name": "Park Lot"
+        },
+        {
+            "code": "179",
+            "description": "",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.127748,
+                "lng": -77.627076
+            },
+            "stop_id": "4258808",
+            "routes": [
+                "4014822"
+            ],
+            "name": "Intercampus Dr. at Library Rd."
+        },
+        {
+            "code": "183",
+            "description": "",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.1226260813015,
+                "lng": -77.6305172767038
+            },
+            "stop_id": "4258810",
+            "routes": [
+                "4014822"
+            ],
+            "name": "Park Lot North"
+        },
+        {
+            "code": "119",
+            "description": "Rush Rhees Library/Library Rd.",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.128696,
+                "lng": -77.627965
+            },
+            "stop_id": "4263068",
+            "routes": [
+                "4010578",
+                "4014822"
+            ],
+            "name": "Rush Rhees Library"
+        },
+        {
+            "code": "141",
+            "description": "1250 Plymouth Ave.",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.1335191900003,
+                "lng": -77.6295822858924
+            },
+            "stop_id": "4263080",
+            "routes": [
+                "4015958"
+            ],
+            "name": "Riverview Apartments"
+        },
+        {
+            "code": "189",
+            "description": "",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.1546682553564,
+                "lng": -77.5945655995468
+            },
+            "stop_id": "4263126",
+            "routes": [
+                "4010578"
+            ],
+            "name": "East & Alexander I/B"
+        },
+        {
+            "code": "190",
+            "description": "Stop Service",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.1490720963202,
+                "lng": -77.5977896913256
+            },
+            "stop_id": "4263128",
+            "routes": [
+                "4010578"
+            ],
+            "name": "Monroe Alexander I/B"
+        },
+        {
+            "code": "04",
+            "description": "",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.1216960814229,
+                "lng": -77.6234361249652
+            },
+            "stop_id": "4266870",
+            "routes": [
+                "4015608",
+                "4015618"
+            ],
+            "name": "Crittenden Blvd at Golisano"
+        },
+        {
+            "code": "72",
+            "description": "",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.1161631497105,
+                "lng": -77.6301974810337
+            },
+            "stop_id": "4266872",
+            "routes": [
+                "4004558"
+            ],
+            "name": "Ronald McDonald House"
+        },
+        {
+            "code": "79",
+            "description": "",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.1045578224569,
+                "lng": -77.6227600537484
+            },
+            "stop_id": "4266874",
+            "routes": [
+                "4004558"
+            ],
+            "name": "Crittenden Rd Rustic OB"
+        },
+        {
+            "code": "80",
+            "description": "",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.1590793526804,
+                "lng": -77.6013232756218
+            },
+            "stop_id": "4266876",
+            "routes": [
+                "4010578"
+            ],
+            "name": "Eastman Living OB"
+        },
+        {
+            "code": "81",
+            "description": "",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.1284042353219,
+                "lng": -77.6277914647025
+            },
+            "stop_id": "4266878",
+            "routes": [
+                "4010578",
+                "4015958"
+            ],
+            "name": "RRL Outbound"
+        },
+        {
+            "code": "85",
+            "description": "",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.1252221494179,
+                "lng": -77.6290509702932
+            },
+            "stop_id": "4266880",
+            "routes": [
+                "4010578",
+                "4014822"
+            ],
+            "name": "Wilmont Goergen"
+        },
+        {
+            "code": "95",
+            "description": "",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.1218594484754,
+                "lng": -77.6235228938847
+            },
+            "stop_id": "4266884",
+            "routes": [
+                "4004558",
+                "4004562",
+                "4015606"
+            ],
+            "name": "GCH Lower Out Bound"
+        },
+        {
+            "code": "97",
+            "description": "",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.1491093073066,
+                "lng": -77.5958539416859
+            },
+            "stop_id": "4266888",
+            "routes": [
+                "4007476"
+            ],
+            "name": "Alex Park Garage"
+        },
+        {
+            "code": "128",
+            "description": "East Ave. @ Alexander St.",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.1546898161289,
+                "lng": -77.5947199350223
+            },
+            "stop_id": "4267164",
+            "routes": [
+                "4010578"
+            ],
+            "name": "East & Alexander O/B"
+        },
+        {
+            "code": "192",
+            "description": "OB Wilson McLean",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.1363190526007,
+                "lng": -77.6176059238722
+            },
+            "stop_id": "4267166",
+            "routes": [
+                "4010578"
+            ],
+            "name": "Wilson & McLean"
+        },
+        {
+            "code": "308",
+            "description": "",
+            "url": "",
+            "parent_station_id": null,
+            "agency_ids": [
+                "283"
+            ],
+            "station_id": null,
+            "location_type": "stop",
+            "location": {
+                "lat": 43.0911687879285,
+                "lng": -77.6438816897638
+            },
+            "stop_id": "4267168",
+            "routes": [
+                "4015958"
+            ],
+            "name": "International Food MKT"
+        }
+    ],
+    "api_version": "1.2"
+}
