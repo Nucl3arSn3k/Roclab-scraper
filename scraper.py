@@ -26,13 +26,14 @@ def webscrape():
 
     optionsv2.binary = FirefoxBinary(r"C:\Program Files\Mozilla Firefox\firefox.exe")
     browser = webdriver.Firefox(
-        executable_path="C:\geckodriver-v0.31.0-win64\geckodriver.exe",  # desktop gecko adress C:\Program Files (x86)\geckodriver-v0.32.2-win32\geckodriver.exe
-        options=optionsv2,
+        executable_path="C:\Program Files (x86)\geckodriver-v0.32.2-win32\geckodriver.exe",  # desktop gecko adress C:\Program Files (x86)\geckodriver-v0.32.2-win32\geckodriver.exe
+        options=optionsv2,   #laptop gecko adress C:\geckodriver-v0.31.0-win64\geckodriver.exe
     )
 
     # driver = webdriver.Firefox(options=optionsv2)
     browret = browser.get(url)
-    page_source = browser.page_source
+    req = requests.get(url)
+    
 
     dropdown = Select(browser.find_element_by_id("ddlTerm"))
     # print(job0)
@@ -50,11 +51,13 @@ def webscrape():
 
     button.click()
     time.sleep(20)
-    soup = BeautifulSoup(page_source, "lxml")
-    job0 = browser.find_element_by_id("rpResults_ctl01_lblSchool")
-    content = job0.text
-    with open("test.html", "w+") as f:
-        f.write(str(content))
+    page_source = browser.page_source
+    
+    #job0 = browser.find_element_by_id("rpResults_ctl01_lblSchool")
+    #content = job0.text
+    #writes html to a file
+    with open("tablecontents.html", "w", encoding="utf-8") as file:
+        file.write(page_source)
 
     data_dict = {
         "timestamp": time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()),
@@ -65,42 +68,34 @@ def webscrape():
     with open("data.json", "w") as f:
         json.dump(data_dict, f)
 
+
+    with open("tablecontents.html", "r",encoding="utf-8") as file:
+        html_code = file.read()
+    soup = BeautifulSoup(html_code, 'html.parser')
     for i in range(1, 3000, 2):
         formatted_number = "{:02d}".format(i)
         # print(formatted_number)
         sub_array = {}
-        try:
-            str0 = browser.find_element_by_id(
-                "rpResults_ctl{}_lblSchool".format(formatted_number)
-            )
-            strval = "rpResults_ctl{}_lblSchool".format(formatted_number)
-            str2 = browser.find_element_by_id(
-                "rpResults_ctl{}_lblDept".format(formatted_number)
-            )
-            str3 = browser.find_element_by_id(
-                "rpResults_ctl{}_cellCourse".format(formatted_number)
-            )
-            str4 = browser.find_element_by_id(
-                "rpResults_ctl{}_cellTitle".format(formatted_number)
-            )
-            str5 = browser.find_element_by_id(
-                "rpResults_ctl{}_lblTerm".format(formatted_number)
-            )
-            str6 = browser.find_element_by_id(
-                "rpResults_ctl{}_lblStatus".format(formatted_number)
-            )
-            str7 = browser.find_element_by_id(
-                "rpResults_ctl{}_lblCredits".format(formatted_number)
-            )
-            sub_array["school"] = str0.text
-            sub_array["dept"] = str2.text
+        try: 
+            print("Starting try for "+ str(i))
+            #str0 = soup.find(id="rpResults_ctl{}_lblSchool".format(formatted_number))
+            #strval = "rpResults_ctl{}_lblSchool".format(formatted_number)
+            #str2 = soup.find(id="rpResults_ctl{}_lblDept".format(formatted_number))
+            str3 = soup.find(id="rpResults_ctl{}_cellCourse".format(formatted_number))
+            strval = "rpResults_ctl{}_cellCourse".format(formatted_number)
+            str4 = soup.find(id="rpResults_ctl{}_cellTitle".format(formatted_number))
+            str5 = soup.find(id="rpResults_ctl{}_lblTerm".format(formatted_number))
+            str6 = soup.find(id="rpResults_ctl{}_lblStatus".format(formatted_number))
+            str7 = soup.find(id="rpResults_ctl{}_lblCredits".format(formatted_number))
+            #sub_array["school"] = str0.text
+            #sub_array["dept"] = str2.text
             sub_array["course"] = str3.text
             sub_array["title"] = str4.text
             sub_array["term"] = str5.text
             sub_array["status"] = str6.text
             sub_array["credits"] = str7.text
 
-        except NoSuchElementException:
+        except AttributeError:
             print("No such element as " + strval)
             break
 
@@ -109,7 +104,8 @@ def webscrape():
     with open("data.json", "w") as f:
         json.dump(data_dict, f)
     # print(str0)
-
+    print("Program ending,wiping local html file.")
+    #os.remove("tablecontents.html")
     # browser.quit()
 
 
