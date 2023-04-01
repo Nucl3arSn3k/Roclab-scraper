@@ -511,3 +511,16 @@ DevTools listening on ws://127.0.0.1:61299/devtools/browser/3c7d6217-d41b-46c4-8
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://cdcs.ur.rochester.edu."
 1679455639588	Marionette	INFO	Stopped listening on port 61332
 Dynamically enable window occlusion 1
+1680307969589	geckodriver	INFO	Listening on 127.0.0.1:54384
+1680307972622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54385" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\shred\\AppData\\Local\\Temp\\rust_mozprofilenWinRv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680307973412	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680307973419	Marionette	INFO	Listening on port 54401
+Read port: 54401
+WebDriver BiDi listening on ws://127.0.0.1:54385
+1680307973621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shred\\AppData\\Local\\Temp\\rust_mozprofilenWinRv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54385/devtools/browser/a397ace5-444b-48a6-a2c0-08b7a4b82f29
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://cdcs.ur.rochester.edu."

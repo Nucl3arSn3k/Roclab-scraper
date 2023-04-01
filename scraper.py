@@ -105,7 +105,7 @@ def webscrape():
         json.dump(data_dict, f)
     # print(str0)
     print("Program ending,wiping local html file.")
-    #os.remove("tablecontents.html")
+    os.remove("tablecontents.html")
     # browser.quit()
 
 
